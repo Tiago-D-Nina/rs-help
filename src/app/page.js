@@ -14,7 +14,7 @@ const Home = () => {
           Ajude doando para o local de arrecadação mais próximo, e você pode adicionar sua organização de arrecadação.
         </p>
 
-        <a href="" target="_blank" rel="noopener noreferrer"> 
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScxeHJ4iK1nprVIpjjIBFNzjdORdxriFiX5VsLxm6YbP9j0nA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"> 
           Registrar arrecadação
         </a>
       </header>
