@@ -41,7 +41,7 @@ const Page = () => {
       <main className={styles.main}> 
       <div className={styles.container}> 
 
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxeHJ4iK1nprVIpjjIBFNzjdORdxriFiX5VsLxm6YbP9j0nA/viewform?embedded=true" width="" height="650" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxeHJ4iK1nprVIpjjIBFNzjdORdxriFiX5VsLxm6YbP9j0nA/viewform?embedded=true" width="" height="1800" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
         
 
         
