@@ -1,0 +1,56 @@
+.card_div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding-bottom: 15px;
+  }
+  
+  .card_div .card_tittle {
+    background-color: #0095FF;
+    color: #FFF;
+    border-radius: 10px 10px 0 0;
+    padding: 7px;
+    padding-left: 15px;
+  }
+  
+  .card_div h2 {
+    padding-left: 15px;
+    width: 100%;
+    font-size: 15px;
+  }
+  
+  .card_div p {
+    padding: 15px;
+    font-size: 13px;
+  }
+  
+  .row_items {
+    padding: 10px 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+  }
+  
+  .row_items li {
+    font-size: 13px;
+    font-weight: 700;
+    color: #FFF;
+    background-color: #0095FF;
+    padding: 3px 7px;
+    border-radius: 50px;
+  }
+  
+  .card_div h3 {
+    padding-left: 15px;
+    padding-right:15px;
+    font-size: 15px;
+  }
+  
+  .contact {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+  }
+  

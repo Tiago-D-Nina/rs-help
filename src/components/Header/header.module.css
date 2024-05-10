@@ -1,0 +1,19 @@
+.header {
+    width: 100vw;
+    height: 120px;
+    background-color: #0095FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    position: fixed;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.514);
+  }
+  
+.header h1, .header a {
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 27px;
+  }
+  
